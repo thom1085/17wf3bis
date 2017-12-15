@@ -1,0 +1,16 @@
+body 
+{ 
+background-color: grey; 
+color: orange ; 
+text-align: center 
+} 
+h1 
+{ 
+color: lightgrey
+ ; 
+} 
+img
+{ 
+    display: block; margin-left: auto; 
+margin-right: auto; 
+} 
